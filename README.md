@@ -19,4 +19,4 @@ Former commercial pilot, I build production web + mobile apps with TypeScript, R
   Repo: https://github.com/PROJXON/MIP-site • Live: https://momentuminternshipprogram.com
 
 ## Tech
-TypeScript • React • Next.js • React Native • Node.js • Express • PostgreSQL • DynamoDB • AWS • Docker • NGINX
+TypeScript • React • Next.js • React Native • Python • Node.js • Express • PostgreSQL • DynamoDB • AWS • Docker • NGINX 
