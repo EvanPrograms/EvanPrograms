@@ -8,7 +8,7 @@ Former commercial pilot, I build production web + mobile apps with TypeScript, R
 
 ## Featured work
 - **OrkaChat** — Serverless realtime messaging (web + mobile) with E2EE, cross-device key recovery, and AI features  
-  Repo: https://github.com/PROJXON/OrkaChat • Live: https://app.orkaos.com
+  Repo: https://github.com/PROJXON/OrkaChat • Live: https://chat.orkaos.com + Google Play Store + iOS App Store (Pending Review)
 - **ProjxonNext** — Next.js corporate site with SSR/ISR + headless WordPress + Docker/NGINX deployment  
   Repo: https://github.com/PROJXON/ProjxonNext • Live: https://projxon.com
 - **Zephyr Aero Leather** — Headless e-commerce (Next.js + WooCommerce + Stripe)  
